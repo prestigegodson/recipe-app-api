@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER London App Developer Ltd.
+MAINTAINER Godson Ositadinma.
 
 ENV PYTHONUNBUFFERED 1
 
